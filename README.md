@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en"
+
+    <meta charset="UTF-8">
+    <title>You Say</title>
+</head>
+<h1>You Say/h1>
+<h2>Lauren Daigle</h2>
+<h3> Intro </h3>
+<p> I keep fighting voices in my mind that say I'm not enough
+Every single lie that tells me I will never measure up
+Am I more than just the sum of every high and every low?
+Remind me once again just who I am because I need to know
+Ooh-oh</p>
+<h4>Chorus</h4>
+<p>You say I am loved when I can't feel a thing
+You say I am strong when I think I am weak
+And you say I am held when I am falling short
+And when I don't belong, oh, You say I am Yours
+And I believe (I), oh, I believe (I)
+What You say of me (I)
+I believe </p>
+<h5> Verse 1</h5>
+<p>The only thing that matters now is everything You think of me
+In You, I find my worth, in You, I find my identity
+Ooh-oh</p>
+<repeat> <h4> Chorus</h4></repeat>
+<p>You say I am loved when I can't feel a thing
+You say I am strong when I think I am weak
+And you say I am held when I am falling short
+And when I don't belong, oh, You say I am Yours
+And I believe (I), oh, I believe (I)
+What You say of me (I)
+I believe</p>
+<h6> Versus 2</h6>
+<p>Taking all I have, and now I'm laying it at Your feet
+You have every failure, God, You have every victory
+Ooh-oh</p>
+<repeat> <h4>Chorus</h4> </repeat>
+<p>You say I am loved when I can't feel a thing
+You say I am strong when I think I am weak
+And you say I am held when I am falling short
+And when I don't belong, oh, You say I am Yours
+And I believe (I), oh, I believe (I)
+What You say of me (I)
+I believe </p>
+
+<p>Oh, I believe (I)
+Yes, I believe (I)
+What You say of me (I)
+I believe</p>
